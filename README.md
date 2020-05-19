@@ -98,7 +98,7 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Arkapedia-Frontend-VueJs`](https://github.com/bagakibadi/arkapedia.client.git)
+* [`Arkapedia-Frontend-VueJs`](https://github.com/bagakibadi/arkapedia-frontend.git)
 
 ## Contributors
 
