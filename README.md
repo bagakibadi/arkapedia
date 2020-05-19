@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://miro.medium.com/max/661/1*TkP2EwaX95ItAv_jGS7hSA.png" width="400">
-  <br>
   Arkapedia (Clone Tokopedia) - Backend
+  <br>
+  <img src="https://miro.medium.com/max/661/1*TkP2EwaX95ItAv_jGS7hSA.png" width="400">
   <br>
 </h1>
 
