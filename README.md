@@ -1,8 +1,8 @@
 <h1 align="center">
+   <br>
+  Arkapedia (Clone Tokopedia) - Vue Js
   <br>
   <img src="https://vuejs.org/images/logo.png" width="200">
-  <br>
-  Arkapedia (Clone Tokopedia) - Vue Js
   <br>
 </h1>
 
@@ -36,7 +36,7 @@
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/ichvanul/arkapedia.client.git`
+2. Type `git clone https://github.com/bagakibadi/arkapedia-frontend.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
@@ -57,7 +57,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Arkapedia`](https://github.com/ichvanul/arkapedia.server.git)
+* [`Backend-Arkapedia`](https://github.com/bagakibadi/arkapedia-backend.git)
 
 ## Contributors
 
@@ -106,4 +106,4 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Contact
 
-If you want to contact me you can reach me at <ichvanulyp@gmail.com>
+MyEmail : solaybagus2@gmail.com
